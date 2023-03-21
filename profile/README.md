@@ -18,7 +18,7 @@ Github limits file sizes to 100MB and your projects won't upload if you try to i
 
 ### Try to work with branching
 
-The main branch should be just for working code. Think f it like a 'release'. If you're developing/experimenting, consider making branches for this and pull them into the main branch when they're ready. Also, consider protecting your main branch so other contributors cannot modify your functioning code without your permission.
+The main branch should be just for working code. Think of it like a 'release'. If you're developing/experimenting, consider making branches for this and pull them into the main branch when they're ready.
 
 ### Think about who will see your code
 
