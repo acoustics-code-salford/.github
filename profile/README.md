@@ -1,7 +1,7 @@
 # Welcome
 Welcome to the University of Salford Acoustics Code Repositories. This project is intended for sharing code within the Acoustics department as well as publicly hosting code associated with research.
 
-If you are a member of staff or student and want to become a collaborator please email [acoustics-code@salford.ac.uk](mailto:acoustics-code@salford.ac.uk)
+If you are a member of staff or student and want to become a collaborator please email [w.bailey@salford.ac.uk](mailto:w.bailey@salford.ac.uk)
 
 ## Guidelines for contributors
 
