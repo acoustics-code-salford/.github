@@ -32,7 +32,7 @@ Remember that <b>public</b> means <i>public to the world</i>; <b>private</b> mea
 
 If you are new to GitHub and git, check out [how to make repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo) and [how to get them on your local machine](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). You may also want to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) from here for your own projects.
 
-The above guidelines are preliminary and subject to change. Please get in contact if you are part of the Salford Acoustics an want to contribute.
+The above guidelines are preliminary and subject to change. Please get in contact if you are part of the Salford Acoustics and want to contribute.
 
 
 Salford Acoustics March 2023
