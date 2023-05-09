@@ -14,7 +14,7 @@ We'd like this to be a space for collaboration on projects. Please try to make s
 It will be best if you can include a license (GitHub provides a few when creating repos) even if its the most permissive, especially if your code is public facing.
 
 ### No big files/data
-Github limits file sizes to 100MB and your projects won't upload if you try to include one and once something is commited it can be a pain to undo it! Be careful what you commit and try to only include code here. Audio, data, neural net weights and other big files should be stored elsewhere. 
+Github limits file sizes to 100MB and your projects won't upload if you try to include one. Once something is commited it can be a pain to undo it! Be careful what you commit and try to only include code here. Audio, data, neural net weights and other big files should be stored elsewhere. 
 
 ### Remember to add a <code>.gitignore</code> file
 
